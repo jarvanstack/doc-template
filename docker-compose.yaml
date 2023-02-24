@@ -1,0 +1,16 @@
+version: '3.4'
+services:
+  doc2:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: doc2
+    volumes:
+      - ./:/docs
+    ports:
+          - "4002:3000"
+    networks:
+      - doc2_net
+networks:
+  doc2_net:
+    driver: bridge
