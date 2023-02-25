@@ -18,3 +18,7 @@ make install
 # 启动
 make serve
 ```
+
+## 发布 GitHub Page
+
+访问地址： https://dengjiawen8955.github.io/doc-template
