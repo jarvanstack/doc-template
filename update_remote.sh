@@ -1,6 +1,6 @@
 #!/usr/bin/expect -f
 set timeout 
-set cmd1 "cd /root/app/doc2 && git pull origin master:master"
+set cmd1 "cd /root/app/university-guide && git pull origin master:master"
 # 使用公钥登录不需要密码
 spawn ssh -p 22 root@djv.bmft.tech
 expect {
