@@ -1,6 +1,4 @@
-## doc-template
-
-docstify 文档模板
+## start
 
 * docsify
 * gitbook-summary: https://github.com/dengjiawen8955/gitbook-summary
@@ -22,3 +20,7 @@ make serve
 ## 发布 GitHub Page
 
 访问地址： https://dengjiawen8955.github.io/doc-template
+
+
+
+> Last Modified {docsify-updated}

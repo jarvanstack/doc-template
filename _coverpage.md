@@ -9,4 +9,4 @@
 - 文档模板 Wiki Book
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
-[Start](#doc-template)
+[Start](#start)

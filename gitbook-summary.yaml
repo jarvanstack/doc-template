@@ -1,5 +1,5 @@
 # 目录标题
-title: doc-template
+title: ""
 # 输出的文件名  
 outputfile: _sidebar.md
 root: "docs"
